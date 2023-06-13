@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5487d667.css",
+    "main.js": "/static/js/main.958b6447.js",
+    "static/media/banner.jpg": "/static/media/banner.bdb3a5ea2de523be9e20.jpg",
+    "static/media/target.png": "/static/media/target.7a8af58fce6e69c0e273.png",
+    "static/media/gym-equipment.png": "/static/media/gym-equipment.12eefa14bb847a1da3a3.png",
+    "static/media/running.png": "/static/media/running.bc5d1d4dfb305c7f8852.png",
+    "static/media/dumbbell.png": "/static/media/dumbbell.9440f644931664319e35.png",
+    "static/media/testosterone.png": "/static/media/testosterone.f6f742c69fd2f0145843.png",
+    "index.html": "/index.html",
+    "main.5487d667.css.map": "/static/css/main.5487d667.css.map",
+    "main.958b6447.js.map": "/static/js/main.958b6447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5487d667.css",
+    "static/js/main.958b6447.js"
+  ]
+}
